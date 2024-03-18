@@ -1,0 +1,27 @@
+{
+  "name": "projetonodejs",
+  "version": "1.0.0",
+  "description": "Projeto Exemplo PPI",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Caiobaasso/ProjetoNodeJS.git"
+  },
+  "keywords": [
+    "Nodejs",
+    "exprees",
+    "javascript",
+    "programação"
+  ],
+  "author": "Caio Basso",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Caiobaasso/ProjetoNodeJS/issues"
+  },
+  "homepage": "https://github.com/Caiobaasso/ProjetoNodeJS#readme"
+}
